@@ -5,7 +5,7 @@ I'm Kyle, a student passionate about web development. While I'm still gaining ex
 - 🔭 Currently learning: Data Structures and Algorithms (DSA)
 - 🌱 Exploring: Frontend web development
 - 💬 Ask me about: HTML, CSS, JavaScript, or anything web-related
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kylepereira03)
 
 ---
 
