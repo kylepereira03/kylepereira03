@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kylepereira03/kylepereira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kyle, a student passionate about web development. While I'm still gaining experience, I have a solid understanding of HTML, CSS, and JavaScript. I'm always eager to learn and take on new challenges!
 
-Here are some ideas to get you started:
+- 🔭 Currently learning: Data Structures and Algorithms (DSA)
+- 🌱 Exploring: Frontend web development
+- 💬 Ask me about: HTML, CSS, JavaScript, or anything web-related
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+<div align="center">
+  
+  <a href="https://github.com/kylepereira03/Tungareshwar-Sweets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kylepereira03&repo=Tungareshwar-Sweets&theme=default" alt="Tungareshwar-Sweets repo card" />
+  </a>
+  
+</div>
+
+---
+
+Check out my repositories to see more of my work!
