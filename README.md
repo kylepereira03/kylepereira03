@@ -7,16 +7,6 @@ I'm Kyle, a student passionate about web development. While I'm still gaining ex
 - 💬 Ask me about: HTML, CSS, JavaScript, or anything web-related
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-## 🚀 Featured Project
-
-<div align="center">
-  
-  <a href="https://github.com/kylepereira03/Tungareshwar-Sweets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kylepereira03&repo=Tungareshwar-Sweets&theme=default" alt="Tungareshwar-Sweets repo card" />
-  </a>
-  
-</div>
-
 ---
 
 Check out my repositories to see more of my work!
