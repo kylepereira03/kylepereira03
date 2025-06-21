@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hey there, I'm Kyle 👋
 
-<!--
-**kylepereira03/kylepereira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student
+🌐 Currently learning Full-Stack Web Development
+📚 Next up: Diving into Data Structures & Algorithms 
+🚀 I love turning ideas into real projects and learning by building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I'm Learning
+- HTML, CSS, JavaScript
+- React, Node.js
+- Express.js & MongoDB
+- (Planning to add DSA soon!)
+
+---
+
+### 📈 GitHub Stats
+
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylepereira03&show_icons=true&theme=github_dark)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kylepereira03)
+<!-- - 💻 [My Portfolio](https://your-portfolio.com) -->
+
+---
+
+> _Still figuring things out. One commit at a time._
