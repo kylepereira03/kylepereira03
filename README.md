@@ -1,9 +1,8 @@
 ## Hey there, I'm Kyle 👋
-
-🎓 I'm a Computer Engineering student<br>
-🌐 Currently learning Full-Stack Web Development<br>
-📚 Next up: Diving into Data Structures & Algorithms<br> 
-🚀 I love turning ideas into real projects and learning by building<br>
+🎓 I'm a Computer Engineering student <br>
+🌐 Currently practicing Full-Stack Web Development <br>
+📚 Next up: Diving into Data Structures & Algorithms <br> 
+🚀 I love turning ideas into real projects and learning by building
 
 
 ## 🛠️ Tech Stack I'm Learning
