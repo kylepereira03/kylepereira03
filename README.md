@@ -19,5 +19,4 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kylepereira03)
-- 🪶 [X (Formerly Twitter)](https://www.x.com/kylepereira03)
 <!-- - 💻 [My Portfolio](https://your-portfolio.com) -->
